@@ -1,0 +1,381 @@
+Seed_Zone,Lot_Name,Total_Inventory,Inventory Unit,Total Inventory (Adjusted for Summation),Sales Price per lb ($),Species,Collection Area,Elevation,Current Germ Test Results,Storage Location,Common_Name,Species Code
+,Balsam Fir- Wisconsin SB07022,2.94,lb,2.94,$71.28,Abies balsamea,Wisconsin,,75/71 2019,SilvaSeed Freezer,Balsam Fir,
+,Balsam Fir- Wisconsin SB15008,21.09,lb,21.09,$511.31,Abies balsamea,Wisconsin,,75/77 2019,SilvaSeed Freezer,Balsam Fir,
+,Big Leaf Maple SR15014,5.69,lb,5.69,$0.00,Acer macrophyllum,Washington,,,SilvaSeed Freezer,Big Leaf Maple,
+,Canaan Fir (Orchard) SB06003,2.00,lb,2.00,$0.00,Abies balsamea var phanerolepsis,,,62/55 2018,SilvaSeed Freezer,Canaan Fir,
+,Canaan Fir West Virginia SB94052,0.65,lb,0.65,$0.00,Abies balsamea var phanerolepsis,,,,,Canaan Fir,
+,Colorado Blue Spruce SB00057,1.85,lb,1.85,$0.00,Picea pungens glauca,Rio Grande N.F.,,96 2001,SilvaSeed Freezer,Colorado Blue Spruce,
+,Colorado Blue Spruce SB09005,0.70,lb,0.70,$0.00,Picea pungens glauca,Rio Grande N.F.,,86/90 2018,SilvaSeed Freezer,Colorado Blue Spruce,
+,Colorado Blue Spruce SB12010,37.27,lb,37.27,$0.00,Picea pungens glauca,Rio Grande N.F.,,98/98 2017,SilvaSeed Freezer,Colorado Blue Spruce,
+,Colorado Blue Spruce SB94011,0.40,lb,0.40,$0.00,Picea pungens glauca,San Juan N.F.,,88/79 2005,SilvaSeed Freezer,Colorado Blue Spruce,
+,Douglas Fir Canada SB20022,1.90,lb,1.90,$300.00,Pseudotsuga menziesii,"Qualicum, Vancouver B.C.",,,SilvaSeed Freezer,Douglas Fir,PSME
+,Douglas Fir Canada SB20023,0.45,lb,0.45,$300.00,Pseudotsuga menziesii,Yellow Point B.C.,,,SilvaSeed Freezer,Douglas Fir,PSME
+,Douglas Fir Idaho 14-80 SB21051,0.15,lb,0.15,$175.00,Pseudotsuga menziesii,,,,SilvaSeed Freezer,Douglas Fir,PSME
+,Douglas Fir Idaho SB21052,0.36,lb,0.36,$175.00,Pseudotsuga menziesii,,,,SilvaSeed Freezer,Douglas Fir,PSME
+,Douglas Fir New Mexico SB06061,5.60,lb,5.60,$151.00,Pseudotsuga menziesii,"Lincoln National Forest, New Mexico",,91/94 2020,SilvaSeed Freezer,Douglas Fir,PSME
+,Douglas Fir New Mexico SB11034,2.40,lb,2.40,$151.00,Pseudotsuga menziesii,"Lincoln National Forest, New Mexico",7500-9500,95% 2011,SilvaSeed Freezer,Douglas Fir,PSME
+,Eastern White Pine New York SB07055,1.60,lb,1.60,$0.00,Pinus strobus,"Adirondack, New York",,,SilvaSeed Freezer,Eastern White Pine,PIST
+,Eastern White Pine New York SB20021,2.43,lb,2.43,$0.00,Pinus strobus,"Adirondack, New York",,,SilvaSeed Freezer,Eastern White Pine,PIST
+,Engellman Spruce Idaho SB21054,0.26,lb,0.26,$170.00,Picea engelmannii,"Big Spring, Idaho",,,SilvaSeed Freezer,Engellman Spruce,
+,Engellman Spruce Idaho SB21068,0.62,lb,0.62,$170.00,Picea engelmannii,,,,SilvaSeed Freezer,Engellman Spruce,
+,European Larch Hungary SB10007,3.00,lb,3.00,$0.00,Larix decidua,,,41/40 2019,SilvaSeed Freezer,European Larch,
+,Korean Fir SB93012,0.90,lb,0.90,$0.00,Abies koreana,,,,SilvaSeed Freezer,Korean Fir,
+,Korean Fir SB93084,0.85,lb,0.85,$0.00,Abies koreana,,,,SilvaSeed Freezer,Korean Fir,
+,Lodgepole Pine Idaho SB21055,0.26,lb,0.26,$0.00,Pinus contorta,"Waha, Idaho",,,SilvaSeed Freezer,Lodgepole Pine,PICO
+,Lodgepole Pine Idaho SB21056,0.35,lb,0.35,$0.00,Pinus contorta,"Red River, Idaho",,,SilvaSeed Freezer,Lodgepole Pine,PICO
+,Lodgepole Pine Idaho SB21057,0.26,lb,0.26,$0.00,Pinus contorta,"Soldiers, Idaho",,,SilvaSeed Freezer,Lodgepole Pine,PICO
+,Lutz Spruce A21-05 SR83030,2.80,lb,2.80,$0.00,Picea lutzii,"Seward, Alaska",500,79/63 2019,SilvaSeed Freezer,Lutz Spruce,
+,Lutz Spruce A21-05 SR90013,249.08,lb,249.08,$0.00,Picea lutzii,"Seward, Alaska",500,74/77 2017,SilvaSeed Freezer,Lutz Spruce,
+,Lutz Spruce Alaska SR94038,7.30,lb,7.30,$0.00,Picea lutzii,,,73/79 2017,SilvaSeed Freezer,Lutz Spruce,
+,Mountain Hemlock Idaho SB21058,0.15,lb,0.15,$400.00,Tsuga mertensiana,"Incline, Idaho",,,SilvaSeed Freezer,Mountain Hemlock,
+,Noble Fir Denmark SB05047,1.00,lb,1.00,$125.00,Abies procera,Rathlousdal Forest,,88/89 2012,SilvaSeed Freezer,Noble Fir,ABPR
+,Noble Fir Denmark SB99048,86.80,lb,86.80,$125.00,Abies procera,Rathlousdal Forest,,42/39 2018,SilvaSeed Freezer,Noble Fir,ABPR
+,Nordmann Fir SB20025,56.50,lb,56.50,$0.00,Abies nordmanniana,"Ambrolauri, Georgia",,,SilvaSeed Freezer,Nordmann Fir,
+,Ponderosa Pine Idaho SB21059,0.75,lb,0.75,$150.00,Pinus ponderosa,"Old Madden, Idaho",,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+,Ponderosa Pine SB10025,92.60,lb,92.60,$150.00,Pinus ponderosa,Klamath Co. Oregon,,82/84 2017,SilvaSeed Freezer,Ponderosa Pine,PIPO
+,Shore Pine Canada SB10022,19.00,lb,19.00,$0.00,Pinus contorta var latifolia,"Hazelton, British Columbia",,91/81 9/2017,SilvaSeed Freezer,Shore Pine,
+,Sitka Alder A16-05 SR95151,0.26,lb,0.26,$0.00,Alnus sinuata,"Skagway, Alaska",500,,SilvaSeed Freezer,Sitka Alder,ALSI
+,Sitka Spruce A34-05 SR72013,1.50,lb,1.50,$225.00,Picea sitchensis,Alaska,500,51/51/8/2005,SilvaSeed Freezer,Sitka Spruce,
+,Sitka Spruce Alaska SB10018,618.69,lb,618.69,$225.00,Picea sitchensis,Prince of Wales,,51/61 9/2018,SilvaSeed Freezer,Sitka Spruce,
+,Sitka Spruce Alaska SR14023,87.17,lb,87.17,$225.00,Picea sitchensis,"Juneau, Alaska",,91/85 8/2019,SilvaSeed Freezer,Sitka Spruce,
+,Sitka Spruce Canada SB10019,104.60,lb,104.60,$225.00,Picea sitchensis,Queen Charlotte Island,,63/70 9/2018,SilvaSeed Freezer,Sitka Spruce,
+,Sitka Spruce Canada SB10020,98.55,lb,98.55,$225.00,Picea sitchensis,Queen Charlotte Island,,77/84 9/2018,SilvaSeed Freezer,Sitka Spruce,
+,Southwestern White Pine Arizona SB08033,1.00,lb,1.00,$0.00,Pinus strobiformis,"Apache N.F., Arizona",,76% 2007,SilvaSeed Freezer,Southwestern White Pine,
+,Subalpine Fir Colorado SB13028,0.85,lb,0.85,$175.00,Abies lasciocarpa var lasciocarpa,San Juan N.F.,,68/76 2017,SilvaSeed Freezer,Subalpine Fir,
+,Sugar Pine SB21152,35.20,lb,35.20,$225.00,Pinus lambertiana,,,,SilvaSeed Freezer,Sugar Pine,PILA
+,Western Hemlock Idaho SB21061,0.06,lb,0.06,$375.00,Tsuga heterophylla,"Merry, Idaho",,,SilvaSeed Freezer,Western Hemlock,TSHE
+,Western Hemlock Idaho SB21062,1.30,lb,1.30,$375.00,Tsuga heterophylla,"Salmon, Idaho",,,SilvaSeed Freezer,Western Hemlock,TSHE
+,Western Larch Idaho SB21067,0.42,lb,0.42,$400.00,Larix occidentalis,,,,SilvaSeed Freezer,Western Larch,LAOC
+,Western White Pine Idaho SB21063,0.69,lb,0.69,$125.00,Pinus monticola,,,,SilvaSeed Freezer,Western White Pine,PIMO
+,Western White Pine Idaho SB21064,3.23,lb,3.23,$125.00,Pinus monticola,"Kootenai, Idaho",,,SilvaSeed Freezer,Western White Pine,PIMO
+,Western White Pine Idaho SB21065,0.02,lb,0.02,$125.00,Pinus monticola,"Elk Hem, Idaho",,,SilvaSeed Freezer,Western White Pine,PIMO
+,Western White Pine SB14011,5.46,lb,5.46,$125.00,Pinus monticola,Southern Oregon,,93% 2020,SilvaSeed Freezer,Western White Pine,PIMO
+,Western White Pine SB14012,2.24,lb,2.24,$125.00,Pinus monticola,Southern Oregon,,93% 2020,SilvaSeed Freezer,Western White Pine,PIMO
+,Western White Pine SR20001,9.10,lb,9.10,$125.00,Pinus monticola,"Whidbey Island, Washington",,94% 2021,SilvaSeed Freezer,Western White Pine,PIMO
+,White Spruce A33-05 SR90012,8.20,lb,8.20,$0.00,Picea glauca,"Kenai, Alaska",500,79/84 2017,SilvaSeed Freezer,White Spruce,PIGL
+,White Spruce A42-05 SR63151,6.00,lb,6.00,$0.00,Picea glauca,"Big Delta, Alaska",500,61/17 2018,SilvaSeed Freezer,White Spruce,PIGL
+,White Spruce Canada SB14007,3.38,lb,3.38,$0.00,Picea glauca,Nova Scotia,,89/94 2018,SilvaSeed Freezer,White Spruce,PIGL
+,White Spruce Minnesota SB11010,1.16,lb,1.16,$0.00,Picea glauca,"Lake States, Minnesota",,67/85 2012,SilvaSeed Freezer,White Spruce,PIGL
+,White Spruce Minnesota SB13026,14.39,lb,14.39,$0.00,Picea glauca,Lake States,,30/47 2018,SilvaSeed Freezer,White Spruce,PIGL
+,Witch Hazel SB21066,110.20,lb,110.20,$0.00,Hamamelis virginiana,,,,SilvaSeed Freezer,Witch Hazel,
+,Witch Hazel SB21070,135.50,lb,135.50,$0.00,Hamamelis virginiana,"Confluence, Pennsylvania",,,SilvaSeed Freezer,Witch Hazel,
+502,Incense Cedar 502-35 SB21105,10.82,lb,10.82,$275.00,Calocedrus decurrens,"Willow, Oregon",3500,,SilvaSeed Freezer,Incense Cedar,CADE
+11,Douglas Fir 011-15/30 SB92054,2.27,lb,2.27,$175.00,Pseudotsuga menziesii,"Hoko, Washington",1500-3000,66/76 1998,SilvaSeed Freezer,Douglas Fir,PSME
+11,Sitka Spruce 011-05 SB14019,194.27,lb,194.27,$225.00,Picea sitchensis,"Hoko, Washington",500,77/69 8/2019,SilvaSeed Freezer,Sitka Spruce,
+12,Sitka Spruce 012-05 SB14018,67.50,lb,67.50,$225.00,Picea sitchensis,"Forks, Washington",500,70/66 8/2019,SilvaSeed Freezer,Sitka Spruce,
+12,Sitka Spruce 012-05 SR16071,95.64,lb,95.64,$225.00,Picea sitchensis,"Forks, Washington",500,,SilvaSeed Freezer,Sitka Spruce,
+12,Sitka Spruce 012-05 SR97072,0.73,lb,0.73,$225.00,Picea sitchensis,"Forks, Washington",500,80/83 10/2012,SilvaSeed Freezer,Sitka Spruce,
+12,Sitka Spruce 012-10 SB14017,51.80,lb,51.80,$225.00,Picea sitchensis,"Forks, Washington",1000,76/79 10/2020,SilvaSeed Freezer,Sitka Spruce,
+30,Douglas Fir 030-05 SB17019,64.00,lb,64.00,$200.00,Pseudotsuga menziesii,"Hoquiam, Washington",500,86/90 2017,SilvaSeed Freezer,Douglas Fir,PSME
+30,Douglas Fir 030-10 SB20014,0.02,lb,0.02,$200.00,Pseudotsuga menziesii,"Matlock, Washington",1000,,SilvaSeed Freezer,Douglas Fir,PSME
+30,Sitka Spruce 030-05 SB17046,4.92,lb,4.92,$225.00,Picea sitchensis,"Hoquiam, Washington",500,74/66 8/2019,SilvaSeed Freezer,Sitka Spruce,
+30,Sitka Spruce 030-05 SB17047,12.31,lb,12.31,$225.00,Picea sitchensis,"Hoquiam, Washington",500,60/63 9/2018,SilvaSeed Freezer,Sitka Spruce,
+30,Sitka Spruce 030-05 SB17048,8.08,lb,8.08,$225.00,Picea sitchensis,"Hoquiam, Washington",500,83/87 9/2018,SilvaSeed Freezer,Sitka Spruce,
+51,Western Hemlock 051-  SB21005,1.00,lb,1.00,$375.00,Tsuga heterophylla,,,,SilvaSeed Freezer,Western Hemlock,TSHE
+53,Noble Fir 053-30 SB21002,120.00,lb,120.00,$125.00,Abies procera,,3000,,SilvaSeed Freezer,Noble Fir,ABPR
+53,Noble Fir 053-30 SB21003,2.35,lb,2.35,$125.00,Abies procera,,3000,,SilvaSeed Freezer,Noble Fir,ABPR
+53,Sitka Spruce 053-05 SR18043,2.80,lb,2.80,$225.00,Picea sitchensis,"Lincoln City, Oregon",500,,SilvaSeed Freezer,Sitka Spruce,
+61,Red Alder 061-05 SB21004,0.80,lb,0.80,$0.00,Alnus rubra,,500,,SilvaSeed Freezer,Red Alder,ALRU
+62,Douglas Fir 062-05 SB18005,17.99,lb,17.99,$225.00,Pseudotsuga menziesii,"Florence, Oregon",500,85/87 2018,SilvaSeed Freezer,Douglas Fir,PSME
+62,Douglas Fir 062-05 SB21198,0.31,lb,0.31,$225.00,Pseudotsuga menziesii,"Florence, Oregon",500,93% 2019,SilvaSeed Freezer,Douglas Fir,PSME
+62,Douglas Fir 062-10 SB18006,86.86,lb,86.86,$225.00,Pseudotsuga menziesii,"Florence, Oregon",1000,79/88 2018,SilvaSeed Freezer,Douglas Fir,PSME
+62,Douglas Fir 062-15 SB18007,21.34,lb,21.34,$225.00,Pseudotsuga menziesii,"Florence, Oregon",1500,95/93 2018,SilvaSeed Freezer,Douglas Fir,PSME
+62,Douglas Fir 062-20 SB18014,6.65,lb,6.65,$225.00,Pseudotsuga menziesii,"Florence, Oregon",2000,89/97 2018,SilvaSeed Freezer,Douglas Fir,PSME
+72,Douglas Fir 072-15 SR97049,196.16,lb,196.16,$225.00,Pseudotsuga menziesii,"Coquille, Oregon",1500,84/93 2020,SilvaSeed Freezer,Douglas Fir,PSME
+72,Douglas Fir 072-20 SB89039,2.65,lb,2.65,$225.00,Pseudotsuga menziesii,"Fairview, Oregon",2000,,SilvaSeed Freezer,Douglas Fir,PSME
+81,Douglas Fir 081-30 SB00032,46.50,lb,46.50,$225.00,Pseudotsuga menziesii,,3000,69/77 2017,SilvaSeed Freezer,Douglas Fir,PSME
+92,Douglas Fir 092-20 SB21024,0.50,lb,0.50,$225.00,Pseudotsuga menziesii,"Blue Lake, California",2000,,SilvaSeed Freezer,Douglas Fir,PSME
+93,Douglas Fir 093-05 SB19039,25.05,lb,25.05,$225.00,Pseudotsuga menziesii,"Blue Lake, California",500,94/96 2020,SilvaSeed Freezer,Douglas Fir,PSME
+93,Douglas Fir 093-10 SB19040,112.60,lb,112.60,$225.00,Pseudotsuga menziesii,"Blue Lake, California",1000,94/97 2020,SilvaSeed Freezer,Douglas Fir,PSME
+93,Douglas Fir 093-15 SB19041,116.15,lb,116.15,$225.00,Pseudotsuga menziesii,"Blue Lake, California",1500,89/96 2020,SilvaSeed Freezer,Douglas Fir,PSME
+94,Douglas Fir 094-05 SB19042,38.65,lb,38.65,$225.00,Pseudotsuga menziesii,"Fort Bragg, California",500,94/98 2020,SilvaSeed Freezer,Douglas Fir,PSME
+94,Douglas Fir 094-10 SB19043,2.50,lb,2.50,$225.00,Pseudotsuga menziesii,"Fort Bragg, California",1000,90/93 2020,SilvaSeed Freezer,Douglas Fir,PSME
+94,Douglas Fir 094-15 SB19044,39.25,lb,39.25,$225.00,Pseudotsuga menziesii,"Fort Bragg, California",1500,,SilvaSeed Freezer,Douglas Fir,PSME
+95,Douglas Fir 095-05 SB19045,31.30,lb,31.30,$225.00,Pseudotsuga menziesii,"Sonoma County, California",500,,SilvaSeed Freezer,Douglas Fir,PSME
+95,Douglas Fir 095-15 SB19046,3.50,lb,3.50,$225.00,Pseudotsuga menziesii,"Sonoma County, California",1500,93/97 2020,SilvaSeed Freezer,Douglas Fir,PSME
+95,Douglas Fir 095-15 SR97006,26.20,lb,26.20,$225.00,Pseudotsuga menziesii,"Old Nursery Site, California",1500,90/92 2017,SilvaSeed Freezer,Douglas Fir,PSME
+95,Douglas Fir 095-15 SR97007,88.90,lb,88.90,$225.00,Pseudotsuga menziesii,"Sonoma County, California",1500,94/96 2018,SilvaSeed Freezer,Douglas Fir,PSME
+97,Coast Redwood 097-17 SB21224,2.98,lb,2.98,$315.00,Sequoia sempervirens,"Big Basin, California",1700,16% 2020,SilvaSeed Freezer,Coast Redwood,SESE
+97,Coast Redwood 097-18 SB21225,4.26,lb,4.26,$315.00,Sequoia sempervirens,"Big Basin, California",1800,13% 2020,SilvaSeed Freezer,Coast Redwood,SESE
+97,Coast Redwood 097-19 SB21226,1.86,lb,1.86,$315.00,Sequoia sempervirens,"Big Basin, California",1900,6% 2020,SilvaSeed Freezer,Coast Redwood,SESE
+221,Douglas Fir 221-10/15 SR18004,2.52,lb,2.52,$225.00,Pseudotsuga menziesii,"Louella, California",1000-1500,,SilvaSeed Freezer,Douglas Fir,PSME
+221,Red Alder 221-05 SR16046,0.90,lb,0.90,$0.00,Alnus rubra,"Port Angeles, Washington",,,,Red Alder,ALRU
+221,Red Alder 221-05 SR18044,1.49,lb,1.49,$0.00,Alnus rubra,"Port Angeles, Washington",500,,SilvaSeed Freezer,Red Alder,ALRU
+241,Douglas Fir 241-10 SR95079,13.80,lb,13.80,$175.00,Pseudotsuga menziesii,"Pe Ell, Washington",1000,88/90 2017,SilvaSeed Freezer,Douglas Fir,PSME
+251,Grand Fir 251-05 SR14026,0.15,lb,0.15,$110.00,Abies grandis,"Willamina, Oregon",500,,SilvaSeed Freezer,Grand Fir,ABGR
+252,Douglas Fir 252-10 SB21053,0.50,lb,0.50,$175.00,Pseudotsuga menziesii,,1000,,SilvaSeed Freezer,Douglas Fir,PSME
+252,Noble Fir 252-30 SR16028,0.89,lb,0.89,$125.00,Abies procera,"Mary's Peak, Oregon",3000,,SilvaSeed Freezer,Noble Fir,ABPR
+252,Noble Fir 252-30 SR20010,4.30,lb,4.30,$125.00,Abies procera,"Mary's Peak, Oregon",3000,,SilvaSeed Freezer,Noble Fir,ABPR
+261,Douglas Fir 261-10 SR20005,1.60,lb,1.60,$225.00,Pseudotsuga menziesii,"Damascus, Oregon",1000,,SilvaSeed Freezer,Douglas Fir,PSME
+262,Douglas Fir 262-10 SR16014,7.60,lb,7.60,$225.00,Pseudotsuga menziesii,"Lebanon, Oregon",1000,,SilvaSeed Freezer,Douglas Fir,PSME
+262,Douglas Fir 262-10 SR20003,5.50,lb,5.50,$225.00,Pseudotsuga menziesii,"Lebanon, Oregon",1000,,SilvaSeed Freezer,Douglas Fir,PSME
+272,Sugar Pine 272-25 SB21119,9.08,lb,9.08,$225.00,Pinus lambertiana,,2500,90% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+303,Douglas Fir 303-25 SB89016,26.91,lb,26.91,$225.00,Pseudotsuga menziesii,"Grouse Mountain, California",2500,66/75 2017,SilvaSeed Freezer,Douglas Fir,PSME
+303,Douglas Fir 303-30 SB21025,2.70,lb,2.70,$225.00,Pseudotsuga menziesii,"Berry Hills, California",3000,,SilvaSeed Freezer,Douglas Fir,PSME
+303,Douglas Fir 303-40 SB21026,41.00,lb,41.00,$225.00,Pseudotsuga menziesii,"Berry Hills, California",4000,,SilvaSeed Freezer,Douglas Fir,PSME
+303,Douglas Fir 303-50 SB21027,1.30,lb,1.30,$225.00,Pseudotsuga menziesii,"Berry Hills, California",5000,,SilvaSeed Freezer,Douglas Fir,PSME
+312,Douglas Fir 312-45 SR91103,1.16,lb,1.16,$225.00,Pseudotsuga menziesii,"South Fork Mountain, California",4500,,SilvaSeed Freezer,Douglas Fir,PSME
+321,Douglas Fir 321-45 SB21199,0.76,lb,0.76,$225.00,Pseudotsuga menziesii,"Hilt, California",4500,93% 2016,SilvaSeed Freezer,Douglas Fir,PSME
+321,Douglas Fir 321-50 SB21200,49.47,lb,49.47,$225.00,Pseudotsuga menziesii,"Hilt, California",5000,96% 2014,SilvaSeed Freezer,Douglas Fir,PSME
+321,Shasta Red Fir 321-65 SB21091,52.80,lb,52.80,$150.00,Abies magnifica var shastensis,"Trapper Creek, California",6500,56% 2021,SilvaSeed Freezer,Shasta Red Fir,ABMA
+321,Shasta Red Fir 321-65 SB21092,89.08,lb,89.08,$150.00,Abies magnifica var shastensis,Mt. Ashland California,6500,,SilvaSeed Freezer,Shasta Red Fir,ABMA
+322,Douglas Fir 322-45 SB21201,44.48,lb,44.48,$225.00,Pseudotsuga menziesii,"Scott Bar, California",4500,94% 2021,SilvaSeed Freezer,Douglas Fir,PSME
+322,Douglas Fir 322-45 SB21202,3.00,lb,3.00,$225.00,Pseudotsuga menziesii,,4500,,SilvaSeed Freezer,Douglas Fir,PSME
+322,Douglas Fir 322-50 SB21203,58.50,lb,58.50,$225.00,Pseudotsuga menziesii,"Scott Bar, California",5000,94% 2014,SilvaSeed Freezer,Douglas Fir,PSME
+322,Douglas Fir 322-55 SB21204,78.44,lb,78.44,$225.00,Pseudotsuga menziesii,"Scott Bar, California",5500,90% 2016,SilvaSeed Freezer,Douglas Fir,PSME
+331,Douglas Fir 331-50 SB21205,0.69,lb,0.69,$225.00,Pseudotsuga menziesii,,5000,,SilvaSeed Freezer,Douglas Fir,PSME
+331,Sugar Pine 331-30 SB21120,11.22,lb,11.22,$225.00,Pinus lambertiana,,3000,93% 2014,SilvaSeed Freezer,Sugar Pine,PILA
+331,Sugar Pine 331-30 SB21121,2.30,lb,2.30,$225.00,Pinus lambertiana,,3000,83% 2014,SilvaSeed Freezer,Sugar Pine,PILA
+331,Sugar Pine 331-35 SB21122,53.44,lb,53.44,$225.00,Pinus lambertiana,"Weaverville, California",3500,96% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+331,Sugar Pine 331-35 SB21184,67.54,lb,67.54,$225.00,Pinus lambertiana,,3500,,SilvaSeed Freezer,Sugar Pine,PILA
+331,Sugar Pine 331-40 SB21123,55.70,lb,55.70,$225.00,Pinus lambertiana,,4000,78% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+331,Sugar Pine 331-40 SB21124,29.18,lb,29.18,$225.00,Pinus lambertiana,,4000,85% 2014,SilvaSeed Freezer,Sugar Pine,PILA
+331,Sugar Pine 331-45 SB21125,12.60,lb,12.60,$225.00,Pinus lambertiana,,4500,89% 2014,SilvaSeed Freezer,Sugar Pine,PILA
+331,Sugar Pine 331-55 SB21126,2.38,lb,2.38,$225.00,Pinus lambertiana,,5500,,SilvaSeed Freezer,Sugar Pine,PILA
+332,Sugar Pine 332-35 SB21127,30.80,lb,30.80,$225.00,Pinus lambertiana,,3500,91% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+332,Sugar Pine 332-40 SB21128,24.00,lb,24.00,$225.00,Pinus lambertiana,"Papoose, California",4000,91% 2014,SilvaSeed Freezer,Sugar Pine,PILA
+340,Douglas Fir 340-40 SB21206,8.88,lb,8.88,$225.00,Pseudotsuga menziesii,"Benbow, California",4000,89% 2016,SilvaSeed Freezer,Douglas Fir,PSME
+351,Douglas Fir 351-20 SB21028,3.10,lb,3.10,$225.00,Pseudotsuga menziesii,"Corning, California",2000,,SilvaSeed Freezer,Douglas Fir,PSME
+352,Douglas Fir 352-15 SR97003,40.68,lb,40.68,$225.00,Pseudotsuga menziesii,"Calpella, California",1500,88/93 2017,SilvaSeed Freezer,Douglas Fir,PSME
+352,Douglas Fir 352-20 SR97004,33.70,lb,33.70,$225.00,Pseudotsuga menziesii,"Calpella, California",2000,87/93 2018,SilvaSeed Freezer,Douglas Fir,PSME
+371,Douglas Fir 371-45 SB21029,5.40,lb,5.40,$225.00,Pseudotsuga menziesii,"Corning, California",4500,,SilvaSeed Freezer,Douglas Fir,PSME
+371,Douglas Fir 371-50 SR80105,6.67,lb,6.67,$225.00,Pseudotsuga menziesii,"Pollard Corral, California",5000,78/92 2020,SilvaSeed Freezer,Douglas Fir,PSME
+371,Douglas Fir 371-55 SB21030,2.80,lb,2.80,$225.00,Pseudotsuga menziesii,"Corning, California",5500,,SilvaSeed Freezer,Douglas Fir,PSME
+371,Ponderosa Pine 371-45 SR80218,41.49,lb,41.49,$150.00,Pinus ponderosa,"Pollard Corral, California",4500,55/74 2019,SilvaSeed Freezer,Ponderosa Pine,PIPO
+371,Ponderosa Pine 371-50 SR80219,140.92,lb,140.92,$150.00,Pinus ponderosa,"Pollard Corral, California",5000,74/85 2017,SilvaSeed Freezer,Ponderosa Pine,PIPO
+371,Ponderosa Pine 371-50 SR94024,3.95,lb,3.95,$150.00,Pinus ponderosa,"Covelo, California",5000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+371,Sugar Pine 371-50 SR94013,180.79,lb,180.79,$225.00,Pinus lambertiana,"Covelo, California",5000,90% 2019,SilvaSeed Freezer,Sugar Pine,PILA
+371,Sugar Pine 371-55 SR21129,58.10,lb,58.10,$225.00,Pinus lambertiana,,5500,83% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+371,Sugar Pine 371-60 SR21130,21.53,lb,21.53,$225.00,Pinus lambertiana,,6000,,SilvaSeed Freezer,Sugar Pine,PILA
+371,White Fir 371-91 SB21073,9.87,lb,9.87,$150.00,Abies concolor,,9100,34% 2021,SilvaSeed Freezer,White Fir,ABCO
+372,Douglas Fir 372-40 SB21031,3.60,lb,3.60,$225.00,Pseudotsuga menziesii,"Glenn County, California",4000,,SilvaSeed Freezer,Douglas Fir,PSME
+372,Douglas Fir 372-45 SB21207,0.91,lb,0.91,$225.00,Pseudotsuga menziesii,"Slap Jack, California",4500,,SilvaSeed Freezer,Douglas Fir,PSME
+372,Douglas Fir 372-50 SB21032,8.90,lb,8.90,$225.00,Pseudotsuga menziesii,"Glenn County, California",5000,,SilvaSeed Freezer,Douglas Fir,PSME
+372,Douglas Fir 372-50 SB21208,70.69,lb,70.69,$225.00,Pseudotsuga menziesii,"Span Creek, California",5000,70% 2016,SilvaSeed Freezer,Douglas Fir,PSME
+372,Douglas Fir 372-55 SB21209,93.06,lb,93.06,$225.00,Pseudotsuga menziesii,"Span Creek, California",5500,88% 2016,SilvaSeed Freezer,Douglas Fir,PSME
+372,Douglas Fir 372-60 SB21210,47.98,lb,47.98,$225.00,Pseudotsuga menziesii,"Pioneer, California",6000,86% 2016,SilvaSeed Freezer,Douglas Fir,PSME
+372,Shasta Red Fir 372-60 SB21093,29.06,lb,29.06,$150.00,Abies magnifica var shastensis,"Zero, California",6000,58% 2019,SilvaSeed Freezer,Shasta Red Fir,ABMA
+380,Douglas Fir 380-22 SB21033,3.40,lb,3.40,$225.00,Pseudotsuga menziesii,"Clear Lake, California",2200,,SilvaSeed Freezer,Douglas Fir,PSME
+380,Ponderosa Pine 380-35 SR80008,23.60,lb,23.60,$150.00,Pinus ponderosa,"Middletown, California",3500,32/55 2018,SilvaSeed Freezer,Ponderosa Pine,PIPO
+401,Douglas Fir 401-15 SB10035,1.05,lb,1.05,$175.00,Pseudotsuga menziesii,"Glacier, Washington",1500,,SilvaSeed Freezer,Douglas Fir,PSME
+401,Douglas Fir 401-15 SB17032,1.35,lb,1.35,$175.00,Pseudotsuga menziesii,"Glacier, Washington",1500,91/94 2015,SilvaSeed Freezer,Douglas Fir,PSME
+401,Douglas Fir 401-15 SB17034,2.50,lb,2.50,$175.00,Pseudotsuga menziesii,"Glacier, Washington",1500,92/89 2015,SilvaSeed Freezer,Douglas Fir,PSME
+401,Douglas Fir 401-15 SB17035,0.99,lb,0.99,$175.00,Pseudotsuga menziesii,"Glacier, Washington",1500,,SilvaSeed Freezer,Douglas Fir,PSME
+401,Douglas Fir 401-15 SB17039,22.50,lb,22.50,$175.00,Pseudotsuga menziesii,"Glacier, Washington",1500,86/91 2016,SilvaSeed Freezer,Douglas Fir,PSME
+401,Douglas Fir 401-15 SB17040,4.30,lb,4.30,$175.00,Pseudotsuga menziesii,"Glacier, Washington",1500,72/91 2016,SilvaSeed Freezer,Douglas Fir,PSME
+401,Douglas Fir 401-15 SB17043,6.05,lb,6.05,$175.00,Pseudotsuga menziesii,"Glacier, Washington",1500,88/89 2016,SilvaSeed Freezer,Douglas Fir,PSME
+402,Douglas Fir 402-05/10 SB19028,5.01,lb,5.01,$175.00,Pseudotsuga menziesii,"Concrete, Washington",500-1000,92/91 2019,SilvaSeed Freezer,Douglas Fir,PSME
+403,Douglas Fir 403-05 SR21015,0.00,lb,0.00,$0.00,Pseudotsuga menziesii,"Concrete, Washington",500,,SilvaSeed Freezer,Douglas Fir,PSME
+403,Douglas Fir 403-10 SR21019,0.00,lb,0.00,$0.00,Pseudotsuga menziesii,"Concrete, Washington",1000,,SilvaSeed Freezer,Douglas Fir,PSME
+403,Pacific Silver Fir 403-20/25 SR18034,36.50,lb,36.50,$0.00,Abies amabilis,"Darrington, Washington",2000-2500,,SilvaSeed Freezer,Pacific Silver Fir,ABAM
+403,Pacific Silver Fir 403-30 SR16039A,11.68,lb,11.68,$0.00,Abies amabilis,"Darrington, Washington",3000,45/29 2/2021,SilvaSeed Freezer,Pacific Silver Fir,ABAM
+403,Pacific Silver Fir 403-35 SR16040A,26.15,lb,26.15,$0.00,Abies amabilis,"Darrington, Washington",3500,32/41 1/2018,SilvaSeed Freezer,Pacific Silver Fir,ABAM
+403,Red Alder 403-05 SR18045,15.70,lb,15.70,$0.00,Alnus rubra,"Darrington, Washington",500,,SilvaSeed Freezer,Red Alder,ALRU
+412,Douglas Fir 412-20 SR21012,0.00,lb,0.00,$0.00,Pseudotsuga menziesii,,2000,,SilvaSeed Freezer,Douglas Fir,PSME
+412,Douglas Fir 412-25 SR21013,0.00,lb,0.00,$0.00,Pseudotsuga menziesii,,2500,,SilvaSeed Freezer,Douglas Fir,PSME
+412,Noble Fir 412-35 SR14033,1.15,lb,1.15,$125.00,Abies procera,"Pyramid Pass, Washington",3500,,SilvaSeed Freezer,Noble Fir,ABPR
+412,Pacific Silver Fir 412-40 SR13065,1.40,lb,1.40,$26.85,Abies amabilis,"Enumclaw, Washington",4000,,SilvaSeed Freezer,Pacific Silver Fir,ABAM
+422,Douglas Fir 422-05 SR20008,0.01,lb,0.01,$200.00,Pseudotsuga menziesii,"Eatonville, Washington",500,,SilvaSeed Freezer,Douglas Fir,PSME
+422,Douglas Fir 422-15 SR21007,0.00,lb,0.00,$0.00,Pseudotsuga menziesii,"Mineral, Washington",1500,,SilvaSeed Freezer,Douglas Fir,PSME
+422,Douglas Fir 422-20 SR21010,0.00,lb,0.00,$0.00,Pseudotsuga menziesii,,2000,,SilvaSeed Freezer,Douglas Fir,PSME
+422,Sitka Spruce 422-15 SR18042,33.39,lb,33.39,$225.00,Picea sitchensis,"Mineral, Washington",1500,,SilvaSeed Freezer,Sitka Spruce,
+422,Western Hemlock 422-20 SB97032,2.15,lb,2.15,$375.00,Tsuga heterophylla,"Ashford, Washington",2000,41/22 2021,SilvaSeed Freezer,Western Hemlock,TSHE
+430,Douglas Fir 430-20 SR21008,0.00,lb,0.00,$0.00,Pseudotsuga menziesii,"Mineral, Washington",2000,,SilvaSeed Freezer,Douglas Fir,PSME
+430,Pacific Silver Fir 430-30 SR16042A,0.00,lb,0.00,$0.00,Abies amabilis,Randle. Washington,3000,,SilvaSeed Freezer,Pacific Silver Fir,ABAM
+440,Noble Fir 440- SB18028,0.90,lb,0.90,$125.00,Abies procera,"Mt. St. Helens, Washington",,72/74 2015,SilvaSeed Freezer,Noble Fir,ABPR
+482,Douglas Fir 482-25/35 SB21211,44.15,lb,44.15,$225.00,Pseudotsuga menziesii,"Oakridge, Oregon",2500-3500,86% 2021,SilvaSeed Freezer,Douglas Fir,PSME
+492,Douglas Fir 492-40 SB21212,54.49,lb,54.49,$225.00,Pseudotsuga menziesii,"S. Umpqua Dead Man, Oregon",4000,,SilvaSeed Freezer,Douglas Fir,PSME
+492,Incense Cedar 492-43 SB21097,3.50,lb,3.50,$275.00,Calocedrus decurrens,"Cedar Springs Mtn. , Oregon",4300,37% 2020,SilvaSeed Freezer,Incense Cedar,CADE
+50,Sugar Pine 050- SB21118,9.56,lb,9.56,$225.00,Pinus lambertiana,,,97% 2020,SilvaSeed Freezer,Sugar Pine,PILA
+501,Douglas Fir 501-50 SB21213,10.12,lb,10.12,$225.00,Pseudotsuga menziesii,"Hurry On Creek, Oregon",5000,83% 2019,SilvaSeed Freezer,Douglas Fir,PSME
+501,Ponderosa Pine 501-30 SB21160,0.62,lb,0.62,$150.00,Pinus ponderosa,"Medco Pond, Oregon",3000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+501,Ponderosa Pine 501-35 SB21161,4.78,lb,4.78,$150.00,Pinus ponderosa,"Union Creek,  Oregon",3500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+501,Shasta Red Fir 501-60 SB21094,7.99,lb,7.99,$150.00,Abies magnifica var shastensis,Huckleberry Lone Rock Oregon,6000,,SilvaSeed Freezer,Shasta Red Fir,ABMA
+501,Sierra Lodgepole Pine 501-45 SR94046,1.41,lb,1.41,$0.00,Pinus contorta var murrayana,"Union Creek, Oregon",4500,94/86 10/00,SilvaSeed Freezer,Sierra Lodgepole Pine,
+501,Western White Pine 501-40 SB21154,9.60,lb,9.60,$125.00,Pinus monticola,"Red Blanket, Oregon",4000,73% 2021,SilvaSeed Freezer,Western White Pine,PIMO
+501,Western White Pine 501-40 SB21155,8.42,lb,8.42,$125.00,Pinus monticola,,4000,73% 2021,SilvaSeed Freezer,Western White Pine,PIMO
+501,Western White Pine 501-40 SB21156,7.00,lb,7.00,$125.00,Pinus monticola,,4000,,SilvaSeed Freezer,Western White Pine,PIMO
+501,Western White Pine 501-40 SB21157,2.00,lb,2.00,$125.00,Pinus monticola,,4000,,SilvaSeed Freezer,Western White Pine,PIMO
+501,Western White Pine 501-40 SB21158,4.72,lb,4.72,$125.00,Pinus monticola,,4000,,SilvaSeed Freezer,Western White Pine,PIMO
+501,Western White Pine 501-40 SB21159,0.08,lb,0.08,$125.00,Pinus monticola,,4000,,SilvaSeed Freezer,Western White Pine,PIMO
+501,White Fir 501-35 SB21074,1.46,lb,1.46,$150.00,Abies concolor,"Union Creek, Oregon",3500,30% 2020,SilvaSeed Freezer,White Fir,ABCO
+501,White Fir 501-38 SB21075,5.30,lb,5.30,$150.00,Abies concolor,,3800,72% 2019,SilvaSeed Freezer,White Fir,ABCO
+502,Douglas Fir 502-20/30 SB21214,8.41,lb,8.41,$225.00,Pseudotsuga menziesii,,2000-3000,,SilvaSeed Freezer,Douglas Fir,PSME
+502,Douglas Fir 502-25 SB21215,2.38,lb,2.38,$225.00,Pseudotsuga menziesii,"BF Flat, Oregon",2500,,SilvaSeed Freezer,Douglas Fir,PSME
+502,Douglas Fir 502-30 SB00028,50.00,lb,50.00,$225.00,Pseudotsuga menziesii,"Shady Cove, Oregon",3000,82/78 2017,SilvaSeed Freezer,Douglas Fir,PSME
+502,Douglas Fir 502-30 SR95019,34.40,lb,34.40,$225.00,Pseudotsuga menziesii,"Willow Lake, Oregon",3000,72/75 2017,SilvaSeed Freezer,Douglas Fir,PSME
+502,Douglas Fir 502-35 SB00027,50.00,lb,50.00,$225.00,Pseudotsuga menziesii,,3500,80/84 2018,SilvaSeed Freezer,Douglas Fir,PSME
+502,Douglas Fir 502-40 SB21216,0.77,lb,0.77,$225.00,Pseudotsuga menziesii,,4000,,SilvaSeed Freezer,Douglas Fir,PSME
+502,Douglas Fir 502-40 SR95021,46.30,lb,46.30,$225.00,Pseudotsuga menziesii,"Eagle Point, Oregon",4000,69/79 2017,SilvaSeed Freezer,Douglas Fir,PSME
+502,Incense Cedar 502-25 SB21098,0.50,lb,0.50,$275.00,Calocedrus decurrens,"Ramsay Road, Oregon",2500,,SilvaSeed Freezer,Incense Cedar,CADE
+502,Incense Cedar 502-41 SB21103,1.16,lb,1.16,$275.00,Calocedrus decurrens,"Buck Willow, Oregon",4100,44% 2020,SilvaSeed Freezer,Incense Cedar,CADE
+502,Incense Cedar 502-55 SB21104,1.30,lb,1.30,$275.00,Calocedrus decurrens,"Hwy 66, Oregon",5500,,SilvaSeed Freezer,Incense Cedar,CADE
+502,Jeffrey Pine 502-15 SB21113,15.74,lb,15.74,$200.00,Pinus jeffreyi,"Hugo, Oregon",1500,,SilvaSeed Freezer,Jeffrey Pine,
+502,Jeffrey Pine 502-20 SB21114,17.76,lb,17.76,$200.00,Pinus jeffreyi,"Hugo, Oregon",2000,,SilvaSeed Freezer,Jeffrey Pine,
+502,Jeffrey Pine 502-40 SR01002,57.13,lb,57.13,$200.00,Pinus jeffreyi,"Rustler Peak, Oregon",4000,62/93 2019,SilvaSeed Freezer,Jeffrey Pine,
+502,Ponderosa Pine 502-14 SB21162,0.83,lb,0.83,$150.00,Pinus ponderosa,"Coyote Creek, Oregon",1400,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+502,Ponderosa Pine 502-15 SB21168,4.84,lb,4.84,$150.00,Pinus ponderosa,"Table Rock, Oregon",1500,95% 2019,SilvaSeed Freezer,Ponderosa Pine,PIPO
+502,Ponderosa Pine 502-20 SB21163,5.00,lb,5.00,$150.00,Pinus ponderosa,"C2 Ranch, Oregon",2000,76% 2019,SilvaSeed Freezer,Ponderosa Pine,PIPO
+502,Ponderosa Pine 502-30 SB21169,7.79,lb,7.79,$150.00,Pinus ponderosa,"Evans Cr., Oregon",3000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+502,Ponderosa Pine 502-31 SB21164,9.84,lb,9.84,$150.00,Pinus ponderosa,"Willow Lake, Oregon",3100,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+502,Ponderosa Pine 502-35 SB21165,1.75,lb,1.75,$150.00,Pinus ponderosa,"Doubleday-Wasson, Oregon",3500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+502,Ponderosa Pine 502-35 SB21166,144.50,lb,144.50,$150.00,Pinus ponderosa,"Pinehurst, Oregon",3500,96% 2019,SilvaSeed Freezer,Ponderosa Pine,PIPO
+502,Ponderosa Pine 502-45 SB21167,0.45,lb,0.45,$150.00,Pinus ponderosa,"Howard Prarie, Oregon",4500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+502,Shasta Red Fir 502-45 SR95014,322.79,lb,322.79,$150.00,Abies magnifica var shastensis,"Huckleberry Mountain, Oregon",4500,63/46 2017,SilvaSeed Freezer,Shasta Red Fir,ABMA
+502,White Fir 502-33 SB21076,2.78,lb,2.78,$150.00,Abies concolor,,3300,,SilvaSeed Freezer,White Fir,ABCO
+511,Douglas Fir 511-15/20 SB21217,3.97,lb,3.97,$225.00,Pseudotsuga menziesii,,1500-2500,,SilvaSeed Freezer,Douglas Fir,PSME
+511,Douglas Fir 511-20 SB21218,0.14,lb,0.14,$225.00,Pseudotsuga menziesii,,2000,,SilvaSeed Freezer,Douglas Fir,PSME
+511,Douglas Fir 511-25 SB21219,15.03,lb,15.03,$225.00,Pseudotsuga menziesii,,2500,99% 2019,SilvaSeed Freezer,Douglas Fir,PSME
+511,Douglas Fir 511-45 SB21220,72.50,lb,72.50,$225.00,Pseudotsuga menziesii,"Tollmann Rd, Oregon",4500,94% 2018,SilvaSeed Freezer,Douglas Fir,PSME
+511,Incense Cedar 511-21 SB21106,0.46,lb,0.46,$275.00,Calocedrus decurrens,"Tollman Cr., Oregon",2100,46% 2020,SilvaSeed Freezer,Incense Cedar,CADE
+511,Incense Cedar 511-45 SB21107,0.99,lb,0.99,$275.00,Calocedrus decurrens,"Mt. Ashland, Oregon",4500,65% 2003,SilvaSeed Freezer,Incense Cedar,CADE
+511,Incense Cedar 511-50 SB21108,2.00,lb,2.00,$275.00,Calocedrus decurrens,"Mt. Ashland, Oregon",5000,,SilvaSeed Freezer,Incense Cedar,CADE
+511,Ponderosa Pine 511-20 SB21170,9.82,lb,9.82,$150.00,Pinus ponderosa,BLM-1122 Oregon,2000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+511,Ponderosa Pine 511-20 SB21171,3.72,lb,3.72,$150.00,Pinus ponderosa,"Panther Gulch, Oregon",2000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+511,Ponderosa Pine 511-25 SB21172,1.99,lb,1.99,$150.00,Pinus ponderosa,Oregon,2500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+511,Ponderosa Pine 511-50 SB21173,11.26,lb,11.26,$150.00,Pinus ponderosa,"Cougar Creek, Oregon",5000,91% 2021,SilvaSeed Freezer,Ponderosa Pine,PIPO
+511,Ponderosa Pine 511-50 SB21174,2.30,lb,2.30,$150.00,Pinus ponderosa,"Mt. Ashland, Oregon",5000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+511,Shasta Red Fir 511-56 SB21096,2.88,lb,2.88,$150.00,Abies magnifica var shastensis,,5600,,SilvaSeed Freezer,Shasta Red Fir,ABMA
+511,Shasta Red Fir 511-60 SB21095,88.60,lb,88.60,$150.00,Abies magnifica var shastensis,Mt. Ashland,6000,49% 2021,SilvaSeed Freezer,Shasta Red Fir,ABMA
+511,Sugar Pine 511-50 SR21131,2.53,lb,2.53,$225.00,Pinus lambertiana,,5000,,SilvaSeed Freezer,Sugar Pine,PILA
+512,Douglas Fir 512-15 SB00030,20.90,lb,20.90,$225.00,Pseudotsuga menziesii,"Cave Junction, Oregon",1500,70/77 2017,SilvaSeed Freezer,Douglas Fir,PSME
+512,Douglas Fir 512-18 SB21221,1.80,lb,1.80,$225.00,Pseudotsuga menziesii,"Kerby, Oregon",1800,,SilvaSeed Freezer,Douglas Fir,PSME
+512,Jeffrey Pine 512-24 SB21115,5.86,lb,5.86,$200.00,Pinus jeffreyi,"Tartar Gulch, Oregon",2400,,SilvaSeed Freezer,Jeffrey Pine,
+512,Sugar Pine 512-20/30 SR21132,4.64,lb,4.64,$225.00,Pinus lambertiana,"Sprague, Oregon",2000-3000,93% 1998,SilvaSeed Freezer,Sugar Pine,PILA
+512,Sugar Pine 512-20/30 SR21133,4.52,lb,4.52,$225.00,Pinus lambertiana,"Sprague, Oregon",2000-3000,78% 1996,SilvaSeed Freezer,Sugar Pine,PILA
+512,Sugar Pine 512-20/30 SR21134,33.56,lb,33.56,$225.00,Pinus lambertiana,"Sprague, Oregon",2000-3000,91% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+512,Sugar Pine 512-20/30 SR21135,4.22,lb,4.22,$225.00,Pinus lambertiana,"Sprague, Oregon",2000-3000,80% 2003,SilvaSeed Freezer,Sugar Pine,PILA
+516,Shasta Red Fir 516-60 SB21014,23.35,lb,23.35,$150.00,Abies magnifica var shastensis,"Mount Shasta, California",6000,,SilvaSeed Freezer,Shasta Red Fir,ABMA
+516,Shasta Red Fir 516-75 SB21015,8.15,lb,8.15,$150.00,Abies magnifica var shastensis,"Sunbowl, California",7500,,SilvaSeed Freezer,Shasta Red Fir,ABMA
+521,Douglas Fir 521-40 SB21222,0.90,lb,0.90,$225.00,Pseudotsuga menziesii,,4000,,SilvaSeed Freezer,Douglas Fir,PSME
+521,Ponderosa Pine 521-45 SB21175,50.29,lb,50.29,$150.00,Pinus ponderosa,"Bartle, California",4500,97% 2016,SilvaSeed Freezer,Ponderosa Pine,PIPO
+521,Ponderosa Pine 521-50 SB21176,61.83,lb,61.83,$150.00,Pinus ponderosa,"Bartle, California",5000,87% 2016,SilvaSeed Freezer,Ponderosa Pine,PIPO
+521,Sugar Pine 521-25  SB21136,1.30,lb,1.30,$225.00,Pinus lambertiana,,2500,78% 1988,SilvaSeed Freezer,Sugar Pine,PILA
+521,Sugar Pine 521-25 SB21137,2.00,lb,2.00,$225.00,Pinus lambertiana,"Cove, California",2500,,SilvaSeed Freezer,Sugar Pine,PILA
+522,Jeffrey Pine 522-50 SB21017,9.75,lb,9.75,$200.00,Pinus jeffreyi,"Crater Peak, California",5000,,SilvaSeed Freezer,Jeffrey Pine,
+522,Ponderosa Pine 522-40 SB21177,64.86,lb,64.86,$150.00,Pinus ponderosa,"Shingletown, California",4000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+522,Ponderosa Pine 522-45 SB21178,73.35,lb,73.35,$150.00,Pinus ponderosa,"Deer Flat, California",4500,86% 2021,SilvaSeed Freezer,Ponderosa Pine,PIPO
+522,Shasta Red Fir 522-50 SB21099,12.61,lb,12.61,$150.00,Abies magnifica var shastensis,,5000,25% 2019,SilvaSeed Freezer,Shasta Red Fir,ABMA
+522,Sugar Pine 522-44 SB21139,7.17,lb,7.17,$225.00,Pinus lambertiana,,4400,64%  2021,SilvaSeed Freezer,Sugar Pine,PILA
+522,Sugar Pine 522-45 SB21138,9.42,lb,9.42,$225.00,Pinus lambertiana,,4500,,SilvaSeed Freezer,Sugar Pine,PILA
+522,Sugar Pine 522-60 SB21140,4.64,lb,4.64,$225.00,Pinus lambertiana,,6000,,SilvaSeed Freezer,Sugar Pine,PILA
+522,White Fir 522-60 SB21077,6.41,lb,6.41,$150.00,Abies concolor,"Eskimo Hill, California",6000,,SilvaSeed Freezer,White Fir,ABCO
+523,Incense Cedar 523-45 SB21069,37.80,lb,37.80,$275.00,Calocedrus decurrens,,4500,,SilvaSeed Freezer,Incense Cedar,CADE
+523,Ponderosa Pine 523-50 SR21003,8.00,lb,8.00,$150.00,Pinus ponderosa,"Chester, California",4500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+523,Ponderosa Pine 523-55 SB21020,4.50,lb,4.50,$150.00,Pinus ponderosa,"Mineral, California",5500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+523,Sugar Pine 523-50 SB21141,53.78,lb,53.78,$225.00,Pinus lambertiana,,5000,90% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+523,White Fir 523-55 SB21078,11.71,lb,11.71,$150.00,Abies concolor,"Anderson, California",5500,28% 2021,SilvaSeed Freezer,White Fir,ABCO
+524,Incense Cedar 524-42 SB21109,11.83,lb,11.83,$275.00,Calocedrus decurrens,"Big Bar, California",4200,,SilvaSeed Freezer,Incense Cedar,CADE
+524,Sugar Pine 524-30 SB21142,18.84,lb,18.84,$225.00,Pinus lambertiana,,3000,265 2016,SilvaSeed Freezer,Sugar Pine,PILA
+525,Ponderosa Pine 525-25 SB21021,0.50,lb,0.50,$150.00,Pinus ponderosa,"Comptonville, California",2500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+525,Ponderosa Pine 525-35 SB21022,7.00,lb,7.00,$150.00,Pinus ponderosa,"North Bloomfield, California",3500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+525,Ponderosa Pine 525-40 SB21023,6.50,lb,6.50,$150.00,Pinus ponderosa,"Alleghany, California",4000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+525,Red Fir 525-61 SB21088,1.00,lb,1.00,$150.00,Abies magnifica,"Yuba Pass/Huysink, California",6100,,SilvaSeed Freezer,Red Fir,
+525,Red Fir 525-68 SB21009,22.95,lb,22.95,$150.00,Abies magnifica,"Yuba, Sierra, Butte, or Huysink, California",6800,,SilvaSeed Freezer,Red Fir,
+525,Red Fir 525-68 SB21010,52.05,lb,52.05,$150.00,Abies magnifica,"Yuba Pass, California",6800,,SilvaSeed Freezer,Red Fir,
+525,Sugar Pine 525-30 SB87010,1.10,lb,1.10,$225.00,Pinus lambertiana,"Downieville, California",3000,81% 2002,SilvaSeed Freezer,Sugar Pine,PILA
+525,Sugar Pine 525-35 SB21143,2.00,lb,2.00,$225.00,Pinus lambertiana,,3500,58% 2016,SilvaSeed Freezer,Sugar Pine,PILA
+525,Sugar Pine 525-40 SB21144,4.62,lb,4.62,$225.00,Pinus lambertiana,"Placer Co., California",4000,,SilvaSeed Freezer,Sugar Pine,PILA
+525,Sugar Pine 525-45 SB21145,4.00,lb,4.00,$225.00,Pinus lambertiana,,4500,,SilvaSeed Freezer,Sugar Pine,PILA
+525,Sugar Pine 525-50 SB21146,6.24,lb,6.24,$225.00,Pinus lambertiana,,5000,90% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+525,Sugar Pine 525-50 SB21147,14.62,lb,14.62,$225.00,Pinus lambertiana,,5000,,SilvaSeed Freezer,Sugar Pine,PILA
+525,Sugar Pine 525-55 SB21148,39.38,lb,39.38,$225.00,Pinus lambertiana,"Grass V./Granit, California",5500,86% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+525,White Fir 525-50 SB21079,50.03,lb,50.03,$150.00,Abies concolor,"Yuba Pass, California",5000,,SilvaSeed Freezer,White Fir,ABCO
+526,Douglas Fir 526-22 SB21034,5.95,lb,5.95,$225.00,Pseudotsuga menziesii,"Gold J. Carter, California",2200,,SilvaSeed Freezer,Douglas Fir,PSME
+526,Douglas Fir 526-24 SB21035,1.25,lb,1.25,$225.00,Pseudotsuga menziesii,"Cedar Creek, California",2400,,SilvaSeed Freezer,Douglas Fir,PSME
+526,Douglas Fir 526-25 SB21036,20.40,lb,20.40,$225.00,Pseudotsuga menziesii,"Cedarville, California",2500,,SilvaSeed Freezer,Douglas Fir,PSME
+526,Douglas Fir 526-30 SB21037,43.80,lb,43.80,$225.00,Pseudotsuga menziesii,"Cosmnus, California",3000,,SilvaSeed Freezer,Douglas Fir,PSME
+526,Douglas Fir 526-30 SB21038,20.60,lb,20.60,$225.00,Pseudotsuga menziesii,"Cedar Creek, California",3000,,SilvaSeed Freezer,Douglas Fir,PSME
+526,Douglas Fir 526-30 SB21039,9.65,lb,9.65,$225.00,Pseudotsuga menziesii,"Cosmnus, California",3000,,SilvaSeed Freezer,Douglas Fir,PSME
+526,Douglas Fir 526-30 SB21040,20.40,lb,20.40,$225.00,Pseudotsuga menziesii,"Cedar, California",3000,,SilvaSeed Freezer,Douglas Fir,PSME
+526,Douglas Fir 526-36 SB21041,6.30,lb,6.30,$225.00,Pseudotsuga menziesii,"Upper Mill Creek, California",3600,,SilvaSeed Freezer,Douglas Fir,PSME
+526,Douglas Fir 526-39 SB21042,20.50,lb,20.50,$225.00,Pseudotsuga menziesii,"Upper Mill Creek, California",3900,,SilvaSeed Freezer,Douglas Fir,PSME
+526,Douglas Fir 526-40 SB21043,12.40,lb,12.40,$225.00,Pseudotsuga menziesii,"Doak's Ridge, California",4000,,SilvaSeed Freezer,Douglas Fir,PSME
+526,Red Fir 526-? SB21089,26.80,lb,26.80,$150.00,Abies magnifica,"Silver Fork, California",,,SilvaSeed Freezer,Red Fir,
+526,Red Fir 526-65 SB21090,35.00,lb,35.00,$150.00,Abies magnifica,"Silver Fork, California",6500,,SilvaSeed Freezer,Red Fir,
+526,Shasta Red Fir 526-68 SB21100,8.36,lb,8.36,$150.00,Abies magnifica var shastensis,,6800,,SilvaSeed Freezer,Shasta Red Fir,ABMA
+526,Sugar Pine 526-40 SB21149,11.87,lb,11.87,$225.00,Pinus lambertiana,,4000,92% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+526,Sugar Pine 526-40 SB21150,1.40,lb,1.40,$225.00,Pinus lambertiana,,4000,,SilvaSeed Freezer,Sugar Pine,PILA
+526,Sugar Pine 526-65 SB21151,69.00,lb,69.00,$225.00,Pinus lambertiana,,6500,44% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+531,Douglas Fir 531-30 SB21044,10.20,lb,10.20,$225.00,Pseudotsuga menziesii,"Schaad's, California",3000,,SilvaSeed Freezer,Douglas Fir,PSME
+531,Douglas Fir 531-35 SB21045,18.60,lb,18.60,$225.00,Pseudotsuga menziesii,"Schaad's, California",3500,,SilvaSeed Freezer,Douglas Fir,PSME
+531,White Fir 531-38 SB21080,1.49,lb,1.49,$150.00,Abies concolor,"Two Dog Pass, California",3800,,SilvaSeed Freezer,White Fir,ABCO
+531,White Fir 531-55 SB21081,4.07,lb,4.07,$150.00,Abies concolor,"Thunder Hill/Cedar Flat, California",5500,,SilvaSeed Freezer,White Fir,ABCO
+531,White Fir 531-55 SB21082,4.60,lb,4.60,$150.00,Abies concolor,"Grizzly Creek/Cedar Flat, California",5500,,SilvaSeed Freezer,White Fir,ABCO
+531,White Fir 531-60 SB21083,7.36,lb,7.36,$150.00,Abies concolor,"Beaver Creek, California",6000,,SilvaSeed Freezer,White Fir,ABCO
+532,Ponderosa Pine 532-45 SB21179,58.82,lb,58.82,$150.00,Pinus ponderosa,"Shaw/Snider, California",4500,93% 2021,SilvaSeed Freezer,Ponderosa Pine,PIPO
+540,Giant Sequoia 540-55 SB21223,5.62,lb,5.62,$410.00,Sequoiadendron giganteum,"Glennville, California",6500,46% 2020,SilvaSeed Freezer,Giant Sequoia,SEGI
+631,Douglas Fir 631-30 SR21011,0.00,lb,0.00,$0.00,Pseudotsuga menziesii,,3000,,SilvaSeed Freezer,Douglas Fir,PSME
+631,Douglas Fir 631-35 SB21049,15.00,lb,15.00,$200.00,Pseudotsuga menziesii,,3500,,SilvaSeed Freezer,Douglas Fir,PSME
+631,Douglas Fir 631-65 SB17014,14.76,lb,14.76,$175.00,Pseudotsuga menziesii,"Cle Elum, Washington",3500,93/94 2018,SilvaSeed Freezer,Douglas Fir,PSME
+631,Ponderosa Pine 631-25 SB21050,50.00,lb,50.00,$150.00,Pinus ponderosa,,2500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+652,Douglas Fir 652-25 SR21016,0.00,lb,0.00,$0.00,Pseudotsuga menziesii,,2500,,SilvaSeed Freezer,Douglas Fir,PSME
+652,Grand Fir 652-25 SR07065,4.00,lb,4.00,$110.00,Abies grandis,"Trout Lake, Washington",2500,45/40 2019,SilvaSeed Freezer,Grand Fir,ABGR
+652,Grand Fir 652-25 SR16068A,7.19,lb,7.19,$110.00,Abies grandis,"Trout Lake North, Washington",2500,,SilvaSeed Freezer,Grand Fir,ABGR
+652,Grand Fir 652-25 SR18027,1.90,lb,1.90,$110.00,Abies grandis,"Trout Lake North, Washington",2500,46/54 2019,SilvaSeed Freezer,Grand Fir,ABGR
+652,Ponderosa Pine 652-25 SR21006,0.00,lb,0.00,$150.00,Pinus ponderosa,,2500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+672,Ponderosa Pine 672/2 SB21182,237.90,lb,237.90,$150.00,Pinus ponderosa,"Ochoco, Oregon",4000,85% 2021,SilvaSeed Freezer,Ponderosa Pine,PIPO
+672,Ponderosa Pine 672/3 SB21181,24.10,lb,24.10,$150.00,Pinus ponderosa,"Ochoco, Oregon",3200,82% 2021,SilvaSeed Freezer,Ponderosa Pine,PIPO
+672,Ponderosa Pine 672/3-35 SB21180,22.79,lb,22.79,$150.00,Pinus ponderosa,"Ochoco, Oregon",3500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+673,Ponderosa Pine 672/2 SB21182,237.90,lb,0.00,$150.00,Pinus ponderosa,"Ochoco, Oregon",4000,85% 2021,SilvaSeed Freezer,Ponderosa Pine,PIPO
+673,Ponderosa Pine 672/3 SB21181,24.10,lb,0.00,$150.00,Pinus ponderosa,"Ochoco, Oregon",3200,82% 2021,SilvaSeed Freezer,Ponderosa Pine,PIPO
+673,Ponderosa Pine 672/3-35 SB21180,22.79,lb,0.00,$150.00,Pinus ponderosa,"Ochoco, Oregon",3500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+673,Ponderosa Pine 673-40 SB21183,98.48,lb,98.48,$150.00,Pinus ponderosa,Oregon,4000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+674,Ponderosa Pine 674-45 SR02003,5.65,lb,5.65,$150.00,Pinus ponderosa,"Prineville, Oregon",4500,30/68 2020,SilvaSeed Freezer,Ponderosa Pine,PIPO
+675,Grand Fir 675-40 SB21085,31.70,lb,31.70,$110.00,Abies grandis,"Camp Sherman, Oregon",4000,44% 2021,SilvaSeed Freezer,Grand Fir,ABGR
+675,Ponderosa Pine 675-35 SR21002,0.00,lb,0.00,$150.00,Pinus ponderosa,"Sisters, Oregon",3500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+675,Ponderosa Pine 675-40 SB21185,39.30,lb,39.30,$150.00,Pinus ponderosa,Bend Oregon,4000,98% 2019,SilvaSeed Freezer,Ponderosa Pine,PIPO
+675,Ponderosa Pine 675-40 SR05002,135.84,lb,135.84,$150.00,Pinus ponderosa,"Sisters, Oregon",4000,82/93 2017,SilvaSeed Freezer,Ponderosa Pine,PIPO
+675,Ponderosa Pine 675-45 SR05003,416.80,lb,416.80,$150.00,Pinus ponderosa,"Sisters, Oregon",4500,87/94 2018,SilvaSeed Freezer,Ponderosa Pine,PIPO
+675,Ponderosa Pine 675-45 SR97090,1.25,lb,1.25,$150.00,Pinus ponderosa,"Sisters, Oregon",4500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+675,Subalpine Fir 675-55 SR14041,25.90,lb,25.90,$175.00,Abies lasciocarpa var lasciocarpa,"McKenzie Pass, Oregon",5500,77/48 2019,SilvaSeed Freezer,Subalpine Fir,
+675,Subalpine Fir 675-60 SR18036,9.90,lb,9.90,$175.00,Abies lasciocarpa var lasciocarpa,"McKenzie Pass, Oregon",6000,,SilvaSeed Freezer,Subalpine Fir,
+681,Grand Fir 681-50 SR11007A,116.15,lb,116.15,$110.00,Abies grandis,"Willamette Pass, Oregon",5000,32/35 2018,SilvaSeed Freezer,Grand Fir,ABGR
+681,Lodgepole Pine 681-45 SB21110,43.00,lb,43.00,$0.00,Pinus contorta,"La Pine, Oregon",4500,,SilvaSeed Freezer,Lodgepole Pine,PICO
+681,Shasta Red Fir 681-60 SB21101,2.98,lb,2.98,$150.00,Abies magnifica var shastensis,,6000,,SilvaSeed Freezer,Shasta Red Fir,ABMA
+681,Sierra Lodgepole Pine 681-45 SB07029,72.55,lb,72.55,$0.00,Pinus contorta var murrayana,"Crescent, Oregon",4500,98/98 9/2017,SilvaSeed Freezer,Sierra Lodgepole Pine,
+681,Sugar Pine 681-50 SB21153,21.63,lb,21.63,$225.00,Pinus lambertiana,,5000,70% 2021,SilvaSeed Freezer,Sugar Pine,PILA
+682,Lodgepole Pine 682-50 SB21111,17.20,lb,17.20,$0.00,Pinus contorta,"Paulina, Oregon",5000,,SilvaSeed Freezer,Lodgepole Pine,PICO
+701,Ponderosa Pine 701-45 SB07031,234.10,lb,234.10,$150.00,Pinus ponderosa,"Fort Klamath, Oregon",4500,94/95 2018,SilvaSeed Freezer,Ponderosa Pine,PIPO
+701,Shasta Red Fir 701-55 SB21102,22.36,lb,22.36,$150.00,Abies magnifica var shastensis,E.McLaughlin,5500,23% 2021,SilvaSeed Freezer,Shasta Red Fir,ABMA
+701,Shore Pine 701-50 SB10023,11.20,lb,11.20,$0.00,Pinus contorta var murrayana,Klamath Co. Oregon,5000,81/84 2017,SilvaSeed Freezer,Sierra Lodgepole Pine,
+701,Sugar Pine 701-45 SR21018,18.80,,18.80,$225.00,Pinus lambertiana,"Klamath Falls, Oregon",4500,,SilvaSeed Freezer,Sugar Pine,PILA
+702,Lodgepole Pine 702-45 SB21112,23.97,lb,23.97,$0.00,Pinus contorta,"Kirk, Oregon",4500,,SilvaSeed Freezer,Lodgepole Pine,PICO
+720,Ponderosa Pine 720-45 SB07033,13.05,lb,13.05,$150.00,Pinus ponderosa,"Klamath Falls, Oregon",4500,80/90 2020,SilvaSeed Freezer,Ponderosa Pine,PIPO
+721,Ponderosa Pine 721-45 SB07032,92.00,lb,92.00,$150.00,Pinus ponderosa,"Grizzly Mountain, Oregon",4500,87/92 2020,SilvaSeed Freezer,Ponderosa Pine,PIPO
+721,Shore Pine 721-50 SR89112,3.70,lb,3.70,$0.00,Pinus contorta var murrayana,"Grizzly Mountain, Oregon",5000,95/89 2019,SilvaSeed Freezer,Sierra Lodgepole Pine,
+732,Jeffrey Pine 732-47 SB21116,86.93,lb,86.93,$200.00,Pinus jeffreyi,Westwood,4700,99% 2019,SilvaSeed Freezer,Jeffrey Pine,
+741,Douglas Fir 741-40 SR21009,14.80,lb,14.80,$225.00,Pseudotsuga menziesii,Mt. Shasta California,4000,,SilvaSeed Freezer,Douglas Fir,PSME
+741,Jeffrey Pine 741-35 SB00056,5.60,lb,5.60,$200.00,Pinus jeffreyi,"Mount Shasta, California",3500,,SilvaSeed Freezer,Jeffrey Pine,
+741,Jeffrey Pine 741-35 SB21018,10.10,lb,10.10,$200.00,Pinus jeffreyi,"Shasta, California",3500,,SilvaSeed Freezer,Jeffrey Pine,
+741,Jeffrey Pine 741-50 SB21019,14.40,lb,14.40,$200.00,Pinus jeffreyi,"Shasta, California",5000,,SilvaSeed Freezer,Jeffrey Pine,
+741,Jeffrey Pine 741-60 SB07030,58.00,lb,58.00,$200.00,Pinus jeffreyi,"Mount Shasta, California",6000,69/96 2020,SilvaSeed Freezer,Jeffrey Pine,
+741,Ponderosa Pine 741-35 SB21186,137.63,lb,137.63,$150.00,Pinus ponderosa,"McCloud, California",3500,75% 2016,SilvaSeed Freezer,Ponderosa Pine,PIPO
+741,Ponderosa Pine 741-40 SB21187,44.71,lb,44.71,$150.00,Pinus ponderosa,"Pilgrim, California",4000,80% 2016,SilvaSeed Freezer,Ponderosa Pine,PIPO
+741,Ponderosa Pine 741-40 SB21188,230.06,lb,230.06,$150.00,Pinus ponderosa,"Ash Crk/Old Mtn, California",4000,62% 2016,SilvaSeed Freezer,Ponderosa Pine,PIPO
+741,Ponderosa Pine 741-40 SB96002,1.36,lb,1.36,$150.00,Pinus ponderosa,"Tennant, California",4000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+741,Ponderosa Pine 741-50 SR99001,799.30,lb,799.30,$150.00,Pinus ponderosa,"Tennant, California",5000,69/83 2017,SilvaSeed Freezer,Ponderosa Pine,PIPO
+741,Shasta Red Fir 741-65 SB21008,26.50,lb,26.50,$150.00,Abies magnifica var shastensis,"Mount Shasta, California",6500,,SilvaSeed Freezer,Shasta Red Fir,ABMA
+741,Shasta Red Fir 741-65 SB21086,1.00,lb,1.00,$150.00,Abies magnifica var shastensis,,6500,,SilvaSeed Freezer,Shasta Red Fir,ABMA
+741,Shasta Red Fir 741-70 SB21086,146.80,lb,146.80,$150.00,Abies magnifica var shastensis,,7000,30% 2010,SilvaSeed Freezer,Shasta Red Fir,ABMA
+742,Ponderosa Pine 742-40 SB96020,3.20,lb,3.20,$150.00,Pinus ponderosa,"Pondosa, California",4000,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+742,Ponderosa Pine 742-45 SB96021,11.40,lb,11.40,$150.00,Pinus ponderosa,"Tom Young, California",4500,50/90 2020,SilvaSeed Freezer,Ponderosa Pine,PIPO
+751,Ponderosa Pine 751-61 SB21189,70.00,lb,70.00,$150.00,Pinus ponderosa,"Goose Lake, Oregon",6100,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+772,Jeffrey Pine 772-63 SB21048,1.60,lb,1.60,$200.00,Pinus jeffreyi,"Truckee, California",6300,,SilvaSeed Freezer,Jeffrey Pine,
+772,Jeffrey Pine 772-65 SB21047,13.90,lb,13.90,$200.00,Pinus jeffreyi,"Truckee, California",6500,,SilvaSeed Freezer,Jeffrey Pine,
+781,Jeffrey Pine 772-63 SB21117,3.60,lb,3.60,$200.00,Pinus jeffreyi,Westwood,6000,,SilvaSeed Freezer,Jeffrey Pine,
+81,Grand Fir 81/82-10 SB21084,25.20,lb,25.20,$110.00,Abies grandis,"Hunter Creek, Oregon",1000,60% 2018,SilvaSeed Freezer,Grand Fir,ABGR
+82,Grand Fir 81/82-10 SB21084,25.20,lb,0.00,$110.00,Abies grandis,"Hunter Creek, Oregon",1000,60% 2018,SilvaSeed Freezer,Grand Fir,ABGR
+830,Ponderosa Pine 830-30 SB20002,0.61,lb,0.61,$150.00,Pinus ponderosa,"Scoop Mountain, Oregon",3000,96% 2016,SilvaSeed Freezer,Ponderosa Pine,PIPO
+863,Subalpine Fir 863-50 SR11006,0.10,lb,0.10,$175.00,Abies lasciocarpa var lasciocarpa,"Tower Mountain, Oregon",5000,,SilvaSeed Freezer,Subalpine Fir,
+881,Ponderosa Pine 881-45 SR05009,99.05,lb,99.05,$150.00,Pinus ponderosa,"Medical Springs, Oregon",4500,78/78 2018,SilvaSeed Freezer,Ponderosa Pine,PIPO
+882,Ponderosa Pine 882-40 SB21190,57.32,lb,57.32,$150.00,Pinus ponderosa,"Baker, Oregon",4000,56% 2015,SilvaSeed Freezer,Ponderosa Pine,PIPO
+882,Ponderosa Pine 882-45 SB21060,50.70,lb,50.70,$150.00,Pinus ponderosa,,4500,,SilvaSeed Freezer,Ponderosa Pine,PIPO
+882,Ponderosa Pine 882-45 SB21191,121.67,lb,121.67,$150.00,Pinus ponderosa,"Baker, Oregon",4500,84% 2015,SilvaSeed Freezer,Ponderosa Pine,PIPO
+901,Ponderosa Pine 901-25 SB21192,92.29,lb,92.29,$150.00,Pinus ponderosa,"Kimberly, Oregon",2500,74% 2015,SilvaSeed Freezer,Ponderosa Pine,PIPO
+922,Ponderosa Pine 922-50 SB07036,50.00,lb,50.00,$150.00,Pinus ponderosa,"John Day, Oregon",5000,90/83 2018,SilvaSeed Freezer,Ponderosa Pine,PIPO
+930,Ponderosa Pine 930-50 SB21193,9.58,lb,9.58,$150.00,Pinus ponderosa,"Van, Oregon",5000,93% 2015,SilvaSeed Freezer,Ponderosa Pine,PIPO
+930,Ponderosa Pine 930-50 SB21194,80.56,lb,80.56,$150.00,Pinus ponderosa,"Beaver Dam, Oregon",5000,71% 2015,SilvaSeed Freezer,Ponderosa Pine,PIPO
+941,Ponderosa Pine 941-50 SB21195,87.06,lb,87.06,$150.00,Pinus ponderosa,"Bear Valley, Oregon",5000,87% 2015,SilvaSeed Freezer,Ponderosa Pine,PIPO
+941,Ponderosa Pine 941-50 SB21196,38.10,lb,38.10,$150.00,Pinus ponderosa,"Camp Creek, Oregon",5000,78% 2015,SilvaSeed Freezer,Ponderosa Pine,PIPO
+941,Ponderosa Pine 941-55 SB21197,30.22,lb,30.22,$150.00,Pinus ponderosa,"Scotty Creek, Oregon",5500,80% 2021,SilvaSeed Freezer,Ponderosa Pine,PIPO
